@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Humor (Humour)]]></title>
         <description><![CDATA[Humor (Humour)]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/humor-humour/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Aug 2016 20:02:40 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 03 Aug 2016 20:11:42 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/humor-humour/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4d9cbb7e-4a7a-49f2-9856-f9f83755cf1f.jpg">]]></description>
+            <link>https://thegrid.ai/humor-humour/ducky/index.html</link>
+            <guid isPermaLink="false">3716fc14-411e-4e35-bfd1-a982c6af53dd</guid>
+            <pubDate>Wed, 03 Aug 2016 20:11:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4d0061d7-9296-4b71-9064-abf664104da2.jpg">]]></description>
