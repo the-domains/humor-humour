@@ -1,16 +1,16 @@
-layout_spectrum: 0.5577798278536648
-typography_spectrum: 0.6358587020076811
+layout_spectrum: 0.7764046650845557
+typography_spectrum: 0.6618348099291325
 color:
-  brandStrength: 0.510906457202509
-  lightness: 0.6077279208693653
-  saturation: 0.45928164198994637
-  rhythmicContrast: 0.8826844720169902
+  brandStrength: 0.0935500820633024
+  lightness: 0.6429710332304239
+  saturation: 0.5872301971539855
+  rhythmicContrast: 0.739755003945902
   brandColors:
-    - '#468966'
-    - '#FFF0A5'
-    - '#FFB03B'
-    - '#B64926'
-    - '#8E2800'
+    - '#E7E8D1'
+    - '#D3CEAA'
+    - '#FBF7E4'
+    - '#424242'
+    - '#8E001C'
 name: Humor (Humour)
 author:
   name: David Ryman
